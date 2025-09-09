@@ -1,16 +1,19 @@
-## Hi there 👋  
+# Hi! I'm Israel
 
-<!--
-**IsRossetti/IsRossetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Information Systems Student** at UniMaster University Center  
+**Computer Technician** graduate
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Studying Information Systems
+- Working with Java and web development
+- Learning about NodeMCU ESP8266 and practical IoT
+
+## Languages I use
+
+- **Java** - for college projects
+- **HTML/CSS** - for web interfaces
+- **C/C++** - getting started with Arduino/ESP8266
+- **C#, Python and SQL** - Basics
+
+---
